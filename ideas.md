@@ -1,0 +1,1 @@
+bookmark bookmarklet for boshispace

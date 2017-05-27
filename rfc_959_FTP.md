@@ -1,0 +1,1 @@
+<script src="https://gist.github.com/mailtruck/cd67706832926802dfc94e6ba18bb87d.js"></script>
